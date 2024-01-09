@@ -23,7 +23,9 @@
     ".angular/cache/17.0.9": true,
     "node_modules": true,
     ".vscode": true,
-    "src/app/app.component.spec.ts": true
+    "src/app/app.component.spec.ts": true,
+    "src/app/components/tasks/tasks.component.spec.ts": true,
+    "src/app/components/task-item/task-item.component.spec.ts": true
   },
   "hide-files.files": [
     "src/assets",
@@ -43,7 +45,9 @@
     ".angular/cache/17.0.9",
     "node_modules",
     ".vscode",
-    "src/app/app.component.spec.ts"
+    "src/app/app.component.spec.ts",
+    "src/app/components/tasks/tasks.component.spec.ts",
+    "src/app/components/task-item/task-item.component.spec.ts"
   ],
   "workbench.colorCustomizations": {
     "editor.selectionBackground": "#06ff27",
